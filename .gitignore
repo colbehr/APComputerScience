@@ -5,4 +5,5 @@
 .dropbox.attr
 .project
 .classpath
-.jar
+*.jar
+*.class
